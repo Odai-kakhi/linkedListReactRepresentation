@@ -2,10 +2,10 @@ A react simple presentation of ‘linked list’ data structure.
 
 # Installing dependencies and running:
 - Clone the repo
-- Inside the folder 'linkedListReactRepresentation':
-`npm install`
-- Running the app:
-`npm start`
+- For dependencies, inside the folder 'linkedListReactRepresentation' run:
+`yarn install`
+- To run it:
+`yarn start`
 
 # Using the app:
 - Open: '/src/WriteHere'
