@@ -2,11 +2,11 @@ A react simple presentation of ‘linked list’ data structure.
 
 # Installing dependencies:
 - Clone the repo
-- Inside the folder linkedListApp:
-`npm install'
+- Inside the folder 'linkedListReactRepresentation':
+`npm install`
 
 # Running the app:
-`npm start'
+`npm start`
 
 # Using the app:
 - Open: 
