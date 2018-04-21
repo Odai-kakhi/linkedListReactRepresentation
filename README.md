@@ -3,10 +3,10 @@ A react simple presentation of ‘linked list’ data structure.
 # Installing dependencies:
 - Clone the repo
 - Inside the folder linkedListApp:
-`yarn install'
+`npm install'
 
 # Running the app:
-`yarn start'
+`npm start'
 
 # Using the app:
 - Open: 
